@@ -1,6 +1,6 @@
 # break-captchas
-Using PIL  to process the  captchas covered  basic image processing algorithms 
-Using Cosine similarity (余弦相似性） to  recongize the captcha
+- Using PIL  to process the  captchas covered  basic image processing algorithms 
+- Using Cosine similarity (余弦相似性） to  recongize the captcha
 
 
 ### Common  Image Processing Algorithm
